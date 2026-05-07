@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260507155925GBKC8D</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260507155925Z0EKL7</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>¡Luces, Cámara, Acción!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Creamos nuestro anuncio</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Dina Martín Molina</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>En esta situación de aprendizaje, el alumnado se convertirá en una agencia de publicidad. El objetivo principal es que aprendan a identificar los elementos de un anuncio (eslogan, imagen, logotipo, cuerpo de texto) y a diferenciar entre información y persuasión. El producto final será la creación de un anuncio publicitario (en formato vídeo corto) sobre un producto inventado que promueva un valor positivo o un hábito saludable.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778162350303</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-movjyag2-jfuxfv8jc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página nueva</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyag2-jfuxfv8jc</odePageId>
+      <odeBlockId>block-1777998834418-qrmz2ijm5</odeBlockId>
+      <blockName>Anuncio publicitario</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyag2-jfuxfv8jc</odePageId>
+          <odeBlockId>block-1777998834418-qrmz2ijm5</odeBlockId>
+          <odeIdeviceId>idevice-1777998834414-07i4em2kf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta situación de aprendizaje, el alumnado se convertirá en una agencia de publicidad. El objetivo principal es que aprendan a identificar los elementos de un anuncio (eslogan, imagen, logotipo, cuerpo de texto) y a diferenciar entre información y persuasión. El producto final será la creación de un anuncio publicitario (en formato vídeo corto) sobre un producto inventado que promueva un valor positivo o un hábito saludable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998834414-07i4em2kf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta situación de aprendizaje, el alumnado se convertirá en una agencia de publicidad. El objetivo principal es que aprendan a identificar los elementos de un anuncio (eslogan, imagen, logotipo, cuerpo de texto) y a diferenciar entre información y persuasión. El producto final será la creación de un anuncio publicitario (en formato vídeo corto) sobre un producto inventado que promueva un valor positivo o un hábito saludable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyag6-i4lnuwfx3</odePageId>
+  <odeParentPageId>page-movjyag2-jfuxfv8jc</odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyag6-i4lnuwfx3</odePageId>
+      <odeBlockId>block-1777998893772-fjcdgfqm6</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyag6-i4lnuwfx3</odePageId>
+          <odeBlockId>block-1777998893772-fjcdgfqm6</odeBlockId>
+          <odeIdeviceId>idevice-1777998893771-b3d4rd0uf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La elección de esta temática y su estructura se justifica mediante la reflexión estratégica (basada en la rutina de pensamiento previa):</p>
+<p><strong>¿Por qué este centro de interés?</strong></p>
+<p>Tras analizar qué saben los alumnos sobre los medios, detectamos que están expuestos a impactos publicitarios constantes. Trabajar el anuncio permite conectar el currículo con su realidad diaria, fomentando el pensamiento crítico.<br /><strong>¿Por qué en 5º de Primaria?</strong></p>
+<p><strong> </strong>Es el momento evolutivo ideal para pasar de la lectura literal a la comprensión de mensajes implícitos y el trabajo cooperativo estructurado.<br /><strong>Relación con la Rutina de Pensamiento:</strong></p>
+<p>Siguiendo el análisis de la tarea anterior ("Veo, Pienso, Me pregunto"), se ha detectado que el alumnado siente curiosidad por cómo los colores y las palabras influyen en sus deseos de compra. Por ello, la unidad no solo busca "hacer un dibujo", sino comprender la ingeniería detrás del mensaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777998893771-b3d4rd0uf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La elección de esta temática y su estructura se justifica mediante la reflexión estratégica (basada en la rutina de pensamiento previa):</p>\n<p><strong>¿Por qué este centro de interés?</strong></p>\n<p>Tras analizar qué saben los alumnos sobre los medios, detectamos que están expuestos a impactos publicitarios constantes. Trabajar el anuncio permite conectar el currículo con su realidad diaria, fomentando el pensamiento crítico.<br /><strong>¿Por qué en 5º de Primaria?</strong></p>\n<p><strong> </strong>Es el momento evolutivo ideal para pasar de la lectura literal a la comprensión de mensajes implícitos y el trabajo cooperativo estructurado.<br /><strong>Relación con la Rutina de Pensamiento:</strong></p>\n<p>Siguiendo el análisis de la tarea anterior (\"Veo, Pienso, Me pregunto\"), se ha detectado que el alumnado siente curiosidad por cómo los colores y las palabras influyen en sus deseos de compra. Por ello, la unidad no solo busca \"hacer un dibujo\", sino comprender la ingeniería detrás del mensaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyag8-1uw559a0y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protección de datos personales y garantías de derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protección de datos personales y garantías de derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyag8-1uw559a0y</odePageId>
+      <odeBlockId>block-1777999047369-887xja7nj</odeBlockId>
+      <blockName>Uso de datos personales</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyag8-1uw559a0y</odePageId>
+          <odeBlockId>block-1777999047369-887xja7nj</odeBlockId>
+          <odeIdeviceId>idevice-1777999047364-uao6b7an5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/seguridad.JPG" title="seguridad" width="952" height="539" alt="seguridad" /></p>
+<ul>
+<li title="Protección de datos">Nunca des tus datos personales aun extraño.</li>
+<li>Usa de forma segura internet.</li>
+<li>Utiliza contraseñas seguras y únicas.</li>
+<li>Nunca entres en páginas web desconocidas, usas siempre las que te recomiende el maestro/a.</li>
+<li>Accede siempre desde el correo electrónico.</li>
+</ul>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777999047364-uao6b7an5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/seguridad.JPG\" title=\"seguridad\" width=\"952\" height=\"539\" alt=\"seguridad\" /></p>\n<ul>\n<li title=\"Protección de datos\">Nunca des tus datos personales aun extraño.</li>\n<li>Usa de forma segura internet.</li>\n<li>Utiliza contraseñas seguras y únicas.</li>\n<li>Nunca entres en páginas web desconocidas, usas siempre las que te recomiende el maestro/a.</li>\n<li>Accede siempre desde el correo electrónico.</li>\n</ul>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyaga-yobvep5uu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyaga-yobvep5uu</odePageId>
+      <odeBlockId>block-1778000597516-gjl9gam8h</odeBlockId>
+      <blockName>PRODUCTO FINAL</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyaga-yobvep5uu</odePageId>
+          <odeBlockId>block-1778000597516-gjl9gam8h</odeBlockId>
+          <odeIdeviceId>idevice-1778000597513-hbgwtp7cl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de esta propuesta didáctica será la creación de un anuncio publicitario en formato de vídeo corto, diseñado y producido por el alumnado de 5º de Primaria, en el que se promocione un producto inventado que fomente un valor positivo o un hábito saludable (como la alimentación equilibrada, el ejercicio físico, el respeto, la empatía o el cuidado del medio ambiente).</p>
+<p>El proceso combinará creatividad, pensamiento crítico y el uso de nuevas tecnologías. El alumnado, organizado en pequeños grupos, ideará su producto, definirá sus características y el mensaje que quiere transmitir. A partir de ahí, desarrollará un guion sencillo para el anuncio, incluyendo elementos persuasivos propios del lenguaje publicitario (eslogan, música, imágenes, etc.).</p>
+<p>Para la parte tecnológica, se integrarán herramientas como Scratch, que permitirá diseñar animaciones o escenas interactivas que pueden formar parte del anuncio, y Makey Makey, que facilitará la creación de interfaces físicas (por ejemplo, botones hechos con materiales cotidianos) para activar sonidos, efectos o interacciones dentro del vídeo.</p>
+<p>El resultado final será un vídeo corto (de entre 30 segundos y 1 minuto) que combine imágenes reales, animaciones o elementos interactivos creados por el alumnado. Este vídeo se presentará al resto de la clase o incluso a la comunidad educativa, fomentando la expresión oral, la competencia digital y el trabajo colaborativo.</p>
+<p>En definitiva, este producto final no solo refuerza contenidos curriculares, sino que también promueve valores fundamentales, el uso responsable de la tecnología y el aprendizaje activo a través de la creación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000597513-hbgwtp7cl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de esta propuesta didáctica será la creación de un anuncio publicitario en formato de vídeo corto, diseñado y producido por el alumnado de 5º de Primaria, en el que se promocione un producto inventado que fomente un valor positivo o un hábito saludable (como la alimentación equilibrada, el ejercicio físico, el respeto, la empatía o el cuidado del medio ambiente).</p>\n<p>El proceso combinará creatividad, pensamiento crítico y el uso de nuevas tecnologías. El alumnado, organizado en pequeños grupos, ideará su producto, definirá sus características y el mensaje que quiere transmitir. A partir de ahí, desarrollará un guion sencillo para el anuncio, incluyendo elementos persuasivos propios del lenguaje publicitario (eslogan, música, imágenes, etc.).</p>\n<p>Para la parte tecnológica, se integrarán herramientas como Scratch, que permitirá diseñar animaciones o escenas interactivas que pueden formar parte del anuncio, y Makey Makey, que facilitará la creación de interfaces físicas (por ejemplo, botones hechos con materiales cotidianos) para activar sonidos, efectos o interacciones dentro del vídeo.</p>\n<p>El resultado final será un vídeo corto (de entre 30 segundos y 1 minuto) que combine imágenes reales, animaciones o elementos interactivos creados por el alumnado. Este vídeo se presentará al resto de la clase o incluso a la comunidad educativa, fomentando la expresión oral, la competencia digital y el trabajo colaborativo.</p>\n<p>En definitiva, este producto final no solo refuerza contenidos curriculares, sino que también promueve valores fundamentales, el uso responsable de la tecnología y el aprendizaje activo a través de la creación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyagb-jxn0vmy9r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas de curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas de curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyagb-jxn0vmy9r</odePageId>
+      <odeBlockId>block-1778000638401-dlu3vnrcq</odeBlockId>
+      <blockName>CURACIÓN DE CONTENIDOS</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyagb-jxn0vmy9r</odePageId>
+          <odeBlockId>block-1778000638401-dlu3vnrcq</odeBlockId>
+          <odeIdeviceId>idevice-1778000638400-6jiygjr0q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Recursos para el Alumnado: "Nuestra Agencia de Publicidad"</strong></p>
+<p>Esta recopilación está diseñada para que mis alumnos y alumnas tengan todo lo necesario para pasar de la idea al anuncio final. He seleccionado herramientas intuitivas y recursos visuales.</p>
+<p><strong>Herramienta utilizada:</strong> Padlet<br /><strong>Contenido de la curación:</strong><br /><strong>Inspiración: </strong>Vídeos de anuncios históricos y actuales con valores positivos.<br /><strong>Bancos de recursos:</strong> Enlaces a Pixabay o Pexels para buscar imágenes y clips de vídeo sin copyright.<br /><strong>Edición:</strong> Un tutorial sencillo Canva Video adaptado a su nivel.<br /><strong>Guion:</strong> Una plantilla de Storyboard descargable para que planifiquen sus planos antes de grabar.<br /></p>
+<p style="text-align: center;"><strong title="PADLET"><a href="https://padlet.com/dinamaestramusica/nuestra-agencia-de-publicidad-pja9fvi0fn7aw5za " title="PADLET" target="_blank" rel="noopener">ENLACE WEB PADLET</a></strong><br /></p>
+<p><strong>2. Herramientas para la Gestión Docente: "Caja de Herramientas Maestra"</strong><br />En esta segunda recopilación, te presento las aplicaciones que yo utilizo para organizar el aula, evaluar el proceso y mantener el flujo de trabajo bajo control.</p>
+<p>Herramienta utilizada: <br />Los docentes tendrán en esta plataforma el acceso a toda la información:</p>
+<p style="text-align: center;"><strong><a href="https://www.symbaloo.com/shared/AAAAAf5LdaUAA41-5EQHCw==" title="SITIO WEB SYMBALOO">SITIO WEB SYMBALOO</a></strong></p>
+<p><strong>Contenido de la curación:</strong><br /><strong>Evaluación: </strong>Haremos una rúbrica en Google Forms para que los alumnos se coevalúen. <br /><strong>Organización: </strong>Acceso directo a Google Classroom de tareas. <br /><strong>Gamificación: </strong>Un Kahoot sobre los anuncios publicitarios.<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000638400-6jiygjr0q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Recursos para el Alumnado: \"Nuestra Agencia de Publicidad\"</strong></p>\n<p>Esta recopilación está diseñada para que mis alumnos y alumnas tengan todo lo necesario para pasar de la idea al anuncio final. He seleccionado herramientas intuitivas y recursos visuales.</p>\n<p><strong>Herramienta utilizada:</strong> Padlet<br /><strong>Contenido de la curación:</strong><br /><strong>Inspiración: </strong>Vídeos de anuncios históricos y actuales con valores positivos.<br /><strong>Bancos de recursos:</strong> Enlaces a Pixabay o Pexels para buscar imágenes y clips de vídeo sin copyright.<br /><strong>Edición:</strong> Un tutorial sencillo Canva Video adaptado a su nivel.<br /><strong>Guion:</strong> Una plantilla de Storyboard descargable para que planifiquen sus planos antes de grabar.<br /></p>\n<p style=\"text-align: center;\"><strong title=\"PADLET\"><a href=\"https://padlet.com/dinamaestramusica/nuestra-agencia-de-publicidad-pja9fvi0fn7aw5za \" title=\"PADLET\" target=\"_blank\" rel=\"noopener\">ENLACE WEB PADLET</a></strong><br /></p>\n<p><strong>2. Herramientas para la Gestión Docente: \"Caja de Herramientas Maestra\"</strong><br />En esta segunda recopilación, te presento las aplicaciones que yo utilizo para organizar el aula, evaluar el proceso y mantener el flujo de trabajo bajo control.</p>\n<p>Herramienta utilizada: <br />Los docentes tendrán en esta plataforma el acceso a toda la información:</p>\n<p style=\"text-align: center;\"><strong><a href=\"https://www.symbaloo.com/shared/AAAAAf5LdaUAA41-5EQHCw==\" title=\"SITIO WEB SYMBALOO\">SITIO WEB SYMBALOO</a></strong></p>\n<p><strong>Contenido de la curación:</strong><br /><strong>Evaluación: </strong>Haremos una rúbrica en Google Forms para que los alumnos se coevalúen. <br /><strong>Organización: </strong>Acceso directo a Google Classroom de tareas. <br /><strong>Gamificación: </strong>Un Kahoot sobre los anuncios publicitarios.<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyagd-cm7kdxhp2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal </pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyagd-cm7kdxhp2</odePageId>
+      <odeBlockId>block-1778000700778-00uogbmho</odeBlockId>
+      <blockName>LÍNEA TEMPORAL</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyagd-cm7kdxhp2</odePageId>
+          <odeBlockId>block-1778000700778-00uogbmho</odeBlockId>
+          <odeIdeviceId>idevice-1778000700776-aikb2y360</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/línea del tiempo.JPG" title="línea del tiempo" width="799" height="448" alt="línea del tiempo" /><img src="{{context_path}}/content/resources/Línea temporal (1).pdf" alt="" /><br /></p>
+<p><strong></strong></p>
+<p><strong>LÍNEA DEL TIEMPO: “Creamos nuestro anuncio”</strong><br /><strong>1. Motivación</strong><br />Esta fase tiene como finalidad despertar el interés del alumnado y conectar el proyecto con su realidad cotidiana. A través del contacto inicial con la publicidad, se busca captar su atención y activar sus ideas previas sobre los anuncios, los productos y los mensajes que transmiten. Además, permite introducir el propósito del proyecto, generando curiosidad y predisposición positiva hacia el aprendizaje.</p>
+<p> <br /><strong>2. Exploración</strong><br />En esta fase el alumnado comienza a investigar y comprender cómo funciona un anuncio publicitario. Se centra en identificar y analizar sus elementos principales, como el mensaje, el público destinatario, los recursos visuales y sonoros o la intención persuasiva. El objetivo es que desarrollen una mirada crítica hacia la publicidad y comprendan cómo influye en las personas.</p>
+<p> <br /><strong>3. Estructuración</strong><br />Durante esta fase se organizan y consolidan los aprendizajes adquiridos. El alumnado da forma a sus ideas, planificando su propio anuncio de manera estructurada. Se definen aspectos clave como el producto, el mensaje que se quiere transmitir y la secuencia del anuncio. Para ello, se emplean herramientas digitales como Genially, que facilitan la organización visual de la información y la creación de un guion claro.</p>
+<p> <br /><strong>4. Aplicación</strong><br />En esta fase el alumnado pone en práctica todo lo aprendido mediante la creación del producto final. Se desarrolla el anuncio utilizando herramientas tecnológicas que permiten integrar creatividad y competencia digital, como Scratch para generar animaciones o escenas, y Makey Makey para incorporar elementos interactivos. Es el momento de producir, experimentar y resolver problemas de forma colaborativa.</p>
+<p> <br /><strong>5. Conclusión</strong><br />Esta fase final se centra en la comunicación y reflexión sobre el trabajo realizado. El alumnado presenta su producto final y toma conciencia de lo aprendido durante el proceso. Se fomenta la valoración del propio trabajo y el de los demás, así como la reflexión sobre los valores o hábitos saludables promovidos. Además, permite cerrar el proyecto dando sentido a todo el proceso de aprendizaje.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778000700776-aikb2y360","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/línea del tiempo.JPG\" title=\"línea del tiempo\" width=\"799\" height=\"448\" alt=\"línea del tiempo\" /><img src=\"{{context_path}}/content/resources/Línea temporal (1).pdf\" alt=\"\" /><br /></p>\n<p><strong></strong></p>\n<p><strong>LÍNEA DEL TIEMPO: “Creamos nuestro anuncio”</strong><br /><strong>1. Motivación</strong><br />Esta fase tiene como finalidad despertar el interés del alumnado y conectar el proyecto con su realidad cotidiana. A través del contacto inicial con la publicidad, se busca captar su atención y activar sus ideas previas sobre los anuncios, los productos y los mensajes que transmiten. Además, permite introducir el propósito del proyecto, generando curiosidad y predisposición positiva hacia el aprendizaje.</p>\n<p> <br /><strong>2. Exploración</strong><br />En esta fase el alumnado comienza a investigar y comprender cómo funciona un anuncio publicitario. Se centra en identificar y analizar sus elementos principales, como el mensaje, el público destinatario, los recursos visuales y sonoros o la intención persuasiva. El objetivo es que desarrollen una mirada crítica hacia la publicidad y comprendan cómo influye en las personas.</p>\n<p> <br /><strong>3. Estructuración</strong><br />Durante esta fase se organizan y consolidan los aprendizajes adquiridos. El alumnado da forma a sus ideas, planificando su propio anuncio de manera estructurada. Se definen aspectos clave como el producto, el mensaje que se quiere transmitir y la secuencia del anuncio. Para ello, se emplean herramientas digitales como Genially, que facilitan la organización visual de la información y la creación de un guion claro.</p>\n<p> <br /><strong>4. Aplicación</strong><br />En esta fase el alumnado pone en práctica todo lo aprendido mediante la creación del producto final. Se desarrolla el anuncio utilizando herramientas tecnológicas que permiten integrar creatividad y competencia digital, como Scratch para generar animaciones o escenas, y Makey Makey para incorporar elementos interactivos. Es el momento de producir, experimentar y resolver problemas de forma colaborativa.</p>\n<p> <br /><strong>5. Conclusión</strong><br />Esta fase final se centra en la comunicación y reflexión sobre el trabajo realizado. El alumnado presenta su producto final y toma conciencia de lo aprendido durante el proceso. Se fomenta la valoración del propio trabajo y el de los demás, así como la reflexión sobre los valores o hábitos saludables promovidos. Además, permite cerrar el proyecto dando sentido a todo el proceso de aprendizaje.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyagf-tgex1qort</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyagf-tgex1qort</odePageId>
+      <odeBlockId>block-1778002088706-bo3frj1i5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyagf-tgex1qort</odePageId>
+          <odeBlockId>block-1778002088706-bo3frj1i5</odeBlockId>
+          <odeIdeviceId>idevice-1778002088705-vwv8n8cc9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Desarrollo de criterios de evaluación con las tareas<br />🔹 <strong>Criterio 3.1.a</strong><br /><strong>“Producir obras propias básicas, utilizando algunas posibilidades expresivas del cuerpo, el sonido, la imagen y los medios digitales básicos y mostrando confianza en las capacidades propias.”</strong></p>
+<p>Este criterio se trabaja principalmente en la fase de motivación, exploración y estructuración, donde el alumnado entra en contacto con el lenguaje publicitario y comienza a expresarse a partir de él.</p>
+<p>Al visualizar distintos anuncios, el alumnado identifica cómo se combinan la imagen, el sonido y las emociones para transmitir un mensaje. A través del análisis de estos elementos (música, ritmo, colores, tono emocional), comienzan a comprender las posibilidades expresivas de los medios audiovisuales.</p>
+<p>Cuando traen un anuncio a clase y lo analizan, no solo interpretan mensajes, sino que empiezan a construir una mirada propia, desarrollando su capacidad crítica y creativa. Este proceso les permite ganar seguridad en sus ideas y en su capacidad para comunicar, sentando las bases para la creación posterior de su propio anuncio.</p>
+<p>En la fase de estructuración, al crear un guion visual mediante Genially y organizar los anuncios en un muro digital, el alumnado aprende a planificar su proyecto. Definen el mensaje, estructuran las escenas y toman decisiones de manera conjunta, reparto de tareas y respeto por las ideas del grupo.</p>
+<p> <br /><strong>🔹 Criterio 4.1.a</strong><br /><strong>“Planificar y diseñar, de manera guiada, producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.”</strong></p>
+<p>Este criterio se desarrolla en las fases de aplicación y conclusión , donde el alumnado pasa de la idea a la creación del producto final.</p>
+<p>Durante la fase de aplicación, este criterio se consolida mediante el uso de herramientas como Scratch y Makey Makey. El alumnado diseña y produce su anuncio integrando elementos visuales, sonoros e interactivos. La creación de tarjetas musicales en Scratch o la activación de sonidos mediante Makey Makey (al interactuar con objetos físicos) implica coordinación, experimentación y resolución de problemas en equipo.</p>
+<p>Además, el hecho de que existan distintas opciones de creación (pantalla en Scratch, uso de Makey Makey, combinación de ambas) favorece la atención a la diversidad, permitiendo que cada grupo adapte su producción a sus intereses y capacidades, asumiendo distintos roles dentro del equipo (diseñador, programador, actor, etc.).</p>
+<p> <br /><strong>Síntesis</strong><br /><strong>A lo largo del proyecto, ambos criterios se trabajan de forma progresiva: primero comprendiendo y explorando el lenguaje audiovisual, y después planificando y creando una producción propia en equipo. El uso de herramientas digitales y metodologías activas permite desarrollar no solo la creatividad, sino también la cooperación, la autonomía y la confianza del alumnado.</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002088705-vwv8n8cc9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Desarrollo de criterios de evaluación con las tareas<br />🔹 <strong>Criterio 3.1.a</strong><br /><strong>“Producir obras propias básicas, utilizando algunas posibilidades expresivas del cuerpo, el sonido, la imagen y los medios digitales básicos y mostrando confianza en las capacidades propias.”</strong></p>\n<p>Este criterio se trabaja principalmente en la fase de motivación, exploración y estructuración, donde el alumnado entra en contacto con el lenguaje publicitario y comienza a expresarse a partir de él.</p>\n<p>Al visualizar distintos anuncios, el alumnado identifica cómo se combinan la imagen, el sonido y las emociones para transmitir un mensaje. A través del análisis de estos elementos (música, ritmo, colores, tono emocional), comienzan a comprender las posibilidades expresivas de los medios audiovisuales.</p>\n<p>Cuando traen un anuncio a clase y lo analizan, no solo interpretan mensajes, sino que empiezan a construir una mirada propia, desarrollando su capacidad crítica y creativa. Este proceso les permite ganar seguridad en sus ideas y en su capacidad para comunicar, sentando las bases para la creación posterior de su propio anuncio.</p>\n<p>En la fase de estructuración, al crear un guion visual mediante Genially y organizar los anuncios en un muro digital, el alumnado aprende a planificar su proyecto. Definen el mensaje, estructuran las escenas y toman decisiones de manera conjunta, reparto de tareas y respeto por las ideas del grupo.</p>\n<p> <br /><strong>🔹 Criterio 4.1.a</strong><br /><strong>“Planificar y diseñar, de manera guiada, producciones culturales y artísticas colectivas, trabajando de forma cooperativa en la consecución de un resultado final y asumiendo diferentes funciones, desde la igualdad y el respeto a la diversidad.”</strong></p>\n<p>Este criterio se desarrolla en las fases de aplicación y conclusión , donde el alumnado pasa de la idea a la creación del producto final.</p>\n<p>Durante la fase de aplicación, este criterio se consolida mediante el uso de herramientas como Scratch y Makey Makey. El alumnado diseña y produce su anuncio integrando elementos visuales, sonoros e interactivos. La creación de tarjetas musicales en Scratch o la activación de sonidos mediante Makey Makey (al interactuar con objetos físicos) implica coordinación, experimentación y resolución de problemas en equipo.</p>\n<p>Además, el hecho de que existan distintas opciones de creación (pantalla en Scratch, uso de Makey Makey, combinación de ambas) favorece la atención a la diversidad, permitiendo que cada grupo adapte su producción a sus intereses y capacidades, asumiendo distintos roles dentro del equipo (diseñador, programador, actor, etc.).</p>\n<p> <br /><strong>Síntesis</strong><br /><strong>A lo largo del proyecto, ambos criterios se trabajan de forma progresiva: primero comprendiendo y explorando el lenguaje audiovisual, y después planificando y creando una producción propia en equipo. El uso de herramientas digitales y metodologías activas permite desarrollar no solo la creatividad, sino también la cooperación, la autonomía y la confianza del alumnado.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyagh-ywmijmv21</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyagh-ywmijmv21</odePageId>
+      <odeBlockId>block-1778001265053-3s3jsa48r</odeBlockId>
+      <blockName>INSTRUMENTOS DE EVALUCIÓN</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyagh-ywmijmv21</odePageId>
+          <odeBlockId>block-1778001265053-3s3jsa48r</odeBlockId>
+          <odeIdeviceId>idevice-1778001265050-ee2kw7lqr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>MOTIVACIÓN</strong></p>
+<p>Para este instrumento, he creado un Kahoot donde vamos a comprobar el nivel de comprensión de la lectura como actividad de motivación que vamos a trabajar al inicio de la  SdA. Al ser una actividad de motivación, Kahoot nos ayudará a tal fin ya que plantea preguntas a forma de juego. Nos dará un feedback en el momento, tanto durante como al terminar el juego. Este conocimiento de resultado será significativo tanto para mí como docente como para el alumnado. Será el punto de partida de la temática que engloba la situación de aprendizaje y es fundamental que los resultados de este kahoot sean positivos. </p>
+<p><br />Aquí dejo enlace de Kahoot sobre los anuncios publicitarios publicitarios:</p>
+<p><a href="https://create.kahoot.it/creator/f80df90a-53ff-4d01-a427-5fb40f9fd864">https://create.kahoot.it/creator/f80df90a-53ff-4d01-a427-5fb40f9fd864 </a></p>
+<p><br /></p>
+<p><strong>APLICACIÓN </strong><br /></p>
+<p>Para este instrumento vamos a llevar a cabo un Scratch y un makey makey, donde realizarán diferentes juegos con los materiales construidos, y que después deben seleccionar y/o elegir para llevarlos al producto final. En este caso cada alumno realizará diferentes pruebas en las que mediante debates propondremos los que más nos han gustado o nos han resultado más interesantes de llevar a cabo para sus productos finales, en este caso yo como docente indagaré para descubrir los motivos mediante algún debate donde los alumnos/as propongan propuestas de mejora y otras reglas para que sean más amenos y promuevan la participación.</p>
+<p> En este caso estamos valorando el proceso de enseñanza-aprendizaje, por lo que será un referente útil para la reflexión docente al tiempo que van seleccionando los sonidos que al alumnado más divertidos les parece y les ayude a organizar el anuncio final. </p>
+<p><br />Facilito una imagen, en la siguiente página, donde se pueden ver algunos pantallazos : </p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/MAKEY MAKEY.webp" title="MAKEY MAKEY" width="1234" height="926" alt="MAKEY MAKEY" /></p>
+<p><strong>EXPOSICIÓN</strong></p>
+<p>A la hora de exponer he creado un cuestionario en Google Forms a modo de autoevaluación del alumnado, que junto a mi registro anecdótico y mi ficha de observación, nos darán datos relevantes relacionados con las acciones y actitudes que hay en cada una de las preguntas y que a su vez está relacionado con varios criterios de evaluación de mi situación de aprendizaje. Espero una calificación positiva de los parámetros recogidos, basados principalmente en la actitud y la participación.  Al mismo modo serán datos para contrastar con lo recogido en mis fichas de registro y en particular en la ficha individual de cada uno de los alumnos y alumnas del grupo.</p>
+<p><br />Dejo enlace de la entrevista: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUrXBDlZp047oxKBAegK1cMZv_K8y9hWDBF1G8ziOHCvrWlg/viewform?usp=publish-editor">https://docs.google.com/forms/d/e/1FAIpQLSdUrXBDlZp047oxKBAegK1cMZv_K8y9hWDBF1G8ziOHCvrWlg/viewform?usp=publish-editor </a> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001265050-ee2kw7lqr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>MOTIVACIÓN</strong></p>\n<p>Para este instrumento, he creado un Kahoot donde vamos a comprobar el nivel de comprensión de la lectura como actividad de motivación que vamos a trabajar al inicio de la  SdA. Al ser una actividad de motivación, Kahoot nos ayudará a tal fin ya que plantea preguntas a forma de juego. Nos dará un feedback en el momento, tanto durante como al terminar el juego. Este conocimiento de resultado será significativo tanto para mí como docente como para el alumnado. Será el punto de partida de la temática que engloba la situación de aprendizaje y es fundamental que los resultados de este kahoot sean positivos. </p>\n<p><br />Aquí dejo enlace de Kahoot sobre los anuncios publicitarios publicitarios:</p>\n<p><a href=\"https://create.kahoot.it/creator/f80df90a-53ff-4d01-a427-5fb40f9fd864\">https://create.kahoot.it/creator/f80df90a-53ff-4d01-a427-5fb40f9fd864 </a></p>\n<p><br /></p>\n<p><strong>APLICACIÓN </strong><br /></p>\n<p>Para este instrumento vamos a llevar a cabo un Scratch y un makey makey, donde realizarán diferentes juegos con los materiales construidos, y que después deben seleccionar y/o elegir para llevarlos al producto final. En este caso cada alumno realizará diferentes pruebas en las que mediante debates propondremos los que más nos han gustado o nos han resultado más interesantes de llevar a cabo para sus productos finales, en este caso yo como docente indagaré para descubrir los motivos mediante algún debate donde los alumnos/as propongan propuestas de mejora y otras reglas para que sean más amenos y promuevan la participación.</p>\n<p> En este caso estamos valorando el proceso de enseñanza-aprendizaje, por lo que será un referente útil para la reflexión docente al tiempo que van seleccionando los sonidos que al alumnado más divertidos les parece y les ayude a organizar el anuncio final. </p>\n<p><br />Facilito una imagen, en la siguiente página, donde se pueden ver algunos pantallazos : </p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/MAKEY MAKEY.webp\" title=\"MAKEY MAKEY\" width=\"1234\" height=\"926\" alt=\"MAKEY MAKEY\" /></p>\n<p><strong>EXPOSICIÓN</strong></p>\n<p>A la hora de exponer he creado un cuestionario en Google Forms a modo de autoevaluación del alumnado, que junto a mi registro anecdótico y mi ficha de observación, nos darán datos relevantes relacionados con las acciones y actitudes que hay en cada una de las preguntas y que a su vez está relacionado con varios criterios de evaluación de mi situación de aprendizaje. Espero una calificación positiva de los parámetros recogidos, basados principalmente en la actitud y la participación.  Al mismo modo serán datos para contrastar con lo recogido en mis fichas de registro y en particular en la ficha individual de cada uno de los alumnos y alumnas del grupo.</p>\n<p><br />Dejo enlace de la entrevista: <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdUrXBDlZp047oxKBAegK1cMZv_K8y9hWDBF1G8ziOHCvrWlg/viewform?usp=publish-editor\">https://docs.google.com/forms/d/e/1FAIpQLSdUrXBDlZp047oxKBAegK1cMZv_K8y9hWDBF1G8ziOHCvrWlg/viewform?usp=publish-editor </a> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyagi-cuoyhp3a6</odePageId>
+  <odeParentPageId>page-movjyagh-ywmijmv21</odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyagi-cuoyhp3a6</odePageId>
+      <odeBlockId>block-1778002480343-gvh40ar33</odeBlockId>
+      <blockName>GUÍA DIDÁCTICA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyagi-cuoyhp3a6</odePageId>
+          <odeBlockId>block-1778002480343-gvh40ar33</odeBlockId>
+          <odeIdeviceId>idevice-1778002480341-50u8fzrd9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>GUÍA DIDÁCTICA</strong><br /><strong>“LUCES, CÁMARA Y ACCIÓN”</strong></p>
+<p><br /><strong>1. Etapa y nivel</strong><br />Educación Primaria – 5º curso</p>
+<p><strong> </strong><br /><strong>2. Temporalización</strong><br />5 sesiones</p>
+<p><strong> </strong><br /><strong>3. Producto final</strong><br />Creación de un anuncio publicitario en formato vídeo corto sobre un producto inventado que promueva un valor positivo o un hábito saludable, integrando herramientas digitales como Scratch y Makey Makey.</p>
+<p><strong> </strong><br /><strong>4. Objetivos didácticos</strong><br />- Comprender el lenguaje publicitario y su intención comunicativa.<br />- Desarrollar la creatividad mediante la creación de un producto propio.<br />- Fomentar hábitos saludables y valores positivos.<br />- Utilizar herramientas digitales básicas para expresarse.<br />- Trabajar de forma cooperativa respetando la diversidad.<br /> <br /><strong>5. Competencia específica</strong></p>
+<p><br /></p>
+<p>3. Expresar y comunicar de manera creativa ideas, sentimientos y emociones, experimentando con las posibilidades del sonido, la imagen, el cuerpo y los medios digitales, para producir obras propias.</p>
+<p><br />4. Participar del diseño, la elaboración y la difusión de producciones culturales y artísticas individuales o colectivas, poniendo en valor el proceso y asumiendo diferentes funciones en la consecución de un resultado final, para desarrollar la creatividad, la noción de autoría y el sentido de pertenencia.</p>
+<p> <br /><strong>6. Criterios de evaluación</strong><br />3.1.a<br />Producir obras propias básicas utilizando el cuerpo, el sonido, la imagen y medios digitales, mostrando confianza.</p>
+<p>4.1.a<br />Planificar y diseñar producciones artísticas colectivas, trabajando cooperativamente y respetando la diversidad.</p>
+<p> <br /><strong>7. Saberes básicos </strong><br /></p>
+<p><br />EAR.3.B.1. Fases del proceso creativo: planificación, interpretación, experimentación y evaluación.</p>
+<p>EAR.3.B.2. Profesiones vinculadas con las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.</p>
+<p>EAR.3.A.5. Recursos digitales de uso común para las artes plásticas y visuales, las artes audiovisuales, la música y las  artes escénicas y performativas.</p>
+<p>EAR.3.A.6. Estrategias básicas de análisis de propuestas artísticas desde una perspectiva de género.</p>
+<p><strong>8. Descriptores operativos</strong></p>
+<p>CCL1,  CCL5, CP3, STEM3, CC2, CE1, CE3, CCEC3,CCEC4, CD2, CPSAA1, CPSAA5<br /> <br /><strong>9. Metodología</strong><br />Se emplea una metodología activa y participativa basada en:</p>
+<p>- Aprendizaje basado en proyectos (ABP)<br />- Trabajo cooperativo<br />- Aprendizaje significativo<br />- Uso de TIC<br />- El alumnado es protagonista de su aprendizaje, creando un producto real con sentido.</p>
+<p> <br /><strong>10. Secuencia didáctica</strong></p>
+<p><br />🔹 Fase 1: Motivación<br />Se introduce al alumnado en el mundo de la publicidad para despertar su interés. Se busca conectar con sus experiencias previas y generar curiosidad hacia el proyecto.</p>
+<p> <br />🔹 Fase 2: Exploración<br />El alumnado analiza anuncios publicitarios, identificando sus elementos (imagen, sonido, emoción, mensaje). Se fomenta una mirada crítica y comprensiva del lenguaje audiovisual.</p>
+<p> <br />🔹 Fase 3: Estructuración<br />Se organizan las ideas y se planifica el anuncio. El alumnado diseña su producto y estructura el contenido mediante herramientas como Genially, creando un guion visual.</p>
+<p> <br />🔹 Fase 4: Aplicación<br />Se desarrolla el producto final:</p>
+<p>Creación de animaciones o escenas en Scratch<br />Uso de Makey Makey para generar sonidos o interacciones<br />Grabación y montaje del anuncio<br /> <br />🔹 Fase 5: Conclusión<br />El alumnado presenta su anuncio, reflexiona sobre el proceso y valora el trabajo propio y el de sus compañeros.</p>
+<p> <br /><strong>11. Atención a la diversidad</strong><br />Flexibilidad en las herramientas (Scratch, Makey Makey o ambos)<br />Diferentes roles dentro del grupo<br />Apoyo visual y guías estructuradas<br />Adaptación del nivel de complejidad<br /> <br /><strong>12. Evaluación</strong><br />Instrumentos:</p>
+<p>Observación directa<br />Rúbrica del producto final<br />Autoevaluación y coevaluación<br />Indicadores de logro:</p>
+<p>Comprende y analiza anuncios<br />Crea un mensaje claro y coherente<br />Usa recursos digitales básicos<br />Participa activamente en el grupo<br /> <br /><strong>13. Recursos</strong></p>
+<p><br />Ordenadores o tablets<br />Conexión a internet<br />Scratch<br />Makey Makey<br />Genially<br />Materiales diversos (cartulina, objetos cotidianos, etc.)<br /> <br /><strong>14. Evaluación del producto final</strong><br />Se valorará:</p>
+<p>Creatividad del producto<br />Claridad del mensaje saludable<br />Uso de imagen, sonido y emoción<br />Integración de herramientas digitales<br />Trabajo en equipo</p>
+<p><strong>15. Principio DUA</strong><strong></strong></p>
+<table border="1" style="width: 100.058%;">
+<tbody>
+<tr>
+<td style="width: 24.9501%;">Principio DUA</td>
+<td style="width: 24.9501%;">Qué se hace en el aula</td>
+<td style="width: 24.9501%;">Recursos concretos</td>
+<td style="width: 24.9501%;">Medidas de atención a la diversidad</td>
+</tr>
+<tr>
+<td style="width: 24.9501%;">🧠 Representación (qué aprender)</td>
+<td style="width: 24.9501%;">Explicación de qué es un anuncio y sus elementos</td>
+<td style="width: 24.9501%;">Vídeos en YouTube, esquemas en Canva, pictogramas de ARASAAC</td>
+<td style="width: 24.9501%;">Apoyos visuales, аудios, lectura en voz alta, glosario adaptado</td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><br /></td>
+<td style="width: 24.9501%;">Análisis de ejemplos reales</td>
+<td style="width: 24.9501%;">Anuncios impresos y audiovisuales</td>
+<td style="width: 24.9501%;">Selección de ejemplos sencillos y cercanos</td>
+</tr>
+<tr>
+<td style="width: 24.9501%;">✍️ Acción y expresión (cómo demostrarlo)</td>
+<td style="width: 24.9501%;">Creación del anuncio</td>
+<td style="width: 24.9501%;">Cartulina, Canva, Clipchamp, iMovie, Audacity</td>
+<td style="width: 24.9501%;">Elección de formato, plantillas guiadas, frases modelo</td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><br /></td>
+<td style="width: 24.9501%;">Elaboración de guion o boceto</td>
+<td style="width: 24.9501%;">Ficha estructurada con preguntas guía</td>
+<td style="width: 24.9501%;">Andamiaje paso a paso</td>
+</tr>
+<tr>
+<td style="width: 24.9501%;">🔥 Implicación (motivación)</td>
+<td style="width: 24.9501%;">Elección del producto o idea del anuncio</td>
+<td style="width: 24.9501%;">Lluvia de ideas, ejemplos cercanos</td>
+<td style="width: 24.9501%;">Libertad de elección según intereses</td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><br /></td>
+<td style="width: 24.9501%;">Trabajo cooperativo</td>
+<td style="width: 24.9501%;">Roles dentro del grupo</td>
+<td style="width: 24.9501%;">Adaptación de roles según capacidades</td>
+</tr>
+<tr>
+<td style="width: 24.9501%;"><br /></td>
+<td style="width: 24.9501%;">Presentación final </td>
+<td style="width: 24.9501%;">Presentaciones orales</td>
+<td style="width: 24.9501%;">Refuerzo positivo, participación flexible</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Principios que vamos a tener en cuenta:</p>
+<p>✔️ Flexibilidad en el producto final<br />✔️ Accesibilidad de los contenidos (visual, auditiva, manipulativa)<br />✔️ Participación activa del alumnado<br />✔️ Andamiaje progresivo (de ejemplo → guía → creación autónoma)</p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778002480341-50u8fzrd9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>GUÍA DIDÁCTICA</strong><br /><strong>“LUCES, CÁMARA Y ACCIÓN”</strong></p>\n<p><br /><strong>1. Etapa y nivel</strong><br />Educación Primaria – 5º curso</p>\n<p><strong> </strong><br /><strong>2. Temporalización</strong><br />5 sesiones</p>\n<p><strong> </strong><br /><strong>3. Producto final</strong><br />Creación de un anuncio publicitario en formato vídeo corto sobre un producto inventado que promueva un valor positivo o un hábito saludable, integrando herramientas digitales como Scratch y Makey Makey.</p>\n<p><strong> </strong><br /><strong>4. Objetivos didácticos</strong><br />- Comprender el lenguaje publicitario y su intención comunicativa.<br />- Desarrollar la creatividad mediante la creación de un producto propio.<br />- Fomentar hábitos saludables y valores positivos.<br />- Utilizar herramientas digitales básicas para expresarse.<br />- Trabajar de forma cooperativa respetando la diversidad.<br /> <br /><strong>5. Competencia específica</strong></p>\n<p><br /></p>\n<p>3. Expresar y comunicar de manera creativa ideas, sentimientos y emociones, experimentando con las posibilidades del sonido, la imagen, el cuerpo y los medios digitales, para producir obras propias.</p>\n<p><br />4. Participar del diseño, la elaboración y la difusión de producciones culturales y artísticas individuales o colectivas, poniendo en valor el proceso y asumiendo diferentes funciones en la consecución de un resultado final, para desarrollar la creatividad, la noción de autoría y el sentido de pertenencia.</p>\n<p> <br /><strong>6. Criterios de evaluación</strong><br />3.1.a<br />Producir obras propias básicas utilizando el cuerpo, el sonido, la imagen y medios digitales, mostrando confianza.</p>\n<p>4.1.a<br />Planificar y diseñar producciones artísticas colectivas, trabajando cooperativamente y respetando la diversidad.</p>\n<p> <br /><strong>7. Saberes básicos </strong><br /></p>\n<p><br />EAR.3.B.1. Fases del proceso creativo: planificación, interpretación, experimentación y evaluación.</p>\n<p>EAR.3.B.2. Profesiones vinculadas con las artes plásticas y visuales, las artes audiovisuales, la música y las artes escénicas y performativas.</p>\n<p>EAR.3.A.5. Recursos digitales de uso común para las artes plásticas y visuales, las artes audiovisuales, la música y las  artes escénicas y performativas.</p>\n<p>EAR.3.A.6. Estrategias básicas de análisis de propuestas artísticas desde una perspectiva de género.</p>\n<p><strong>8. Descriptores operativos</strong></p>\n<p>CCL1,  CCL5, CP3, STEM3, CC2, CE1, CE3, CCEC3,CCEC4, CD2, CPSAA1, CPSAA5<br /> <br /><strong>9. Metodología</strong><br />Se emplea una metodología activa y participativa basada en:</p>\n<p>- Aprendizaje basado en proyectos (ABP)<br />- Trabajo cooperativo<br />- Aprendizaje significativo<br />- Uso de TIC<br />- El alumnado es protagonista de su aprendizaje, creando un producto real con sentido.</p>\n<p> <br /><strong>10. Secuencia didáctica</strong></p>\n<p><br />🔹 Fase 1: Motivación<br />Se introduce al alumnado en el mundo de la publicidad para despertar su interés. Se busca conectar con sus experiencias previas y generar curiosidad hacia el proyecto.</p>\n<p> <br />🔹 Fase 2: Exploración<br />El alumnado analiza anuncios publicitarios, identificando sus elementos (imagen, sonido, emoción, mensaje). Se fomenta una mirada crítica y comprensiva del lenguaje audiovisual.</p>\n<p> <br />🔹 Fase 3: Estructuración<br />Se organizan las ideas y se planifica el anuncio. El alumnado diseña su producto y estructura el contenido mediante herramientas como Genially, creando un guion visual.</p>\n<p> <br />🔹 Fase 4: Aplicación<br />Se desarrolla el producto final:</p>\n<p>Creación de animaciones o escenas en Scratch<br />Uso de Makey Makey para generar sonidos o interacciones<br />Grabación y montaje del anuncio<br /> <br />🔹 Fase 5: Conclusión<br />El alumnado presenta su anuncio, reflexiona sobre el proceso y valora el trabajo propio y el de sus compañeros.</p>\n<p> <br /><strong>11. Atención a la diversidad</strong><br />Flexibilidad en las herramientas (Scratch, Makey Makey o ambos)<br />Diferentes roles dentro del grupo<br />Apoyo visual y guías estructuradas<br />Adaptación del nivel de complejidad<br /> <br /><strong>12. Evaluación</strong><br />Instrumentos:</p>\n<p>Observación directa<br />Rúbrica del producto final<br />Autoevaluación y coevaluación<br />Indicadores de logro:</p>\n<p>Comprende y analiza anuncios<br />Crea un mensaje claro y coherente<br />Usa recursos digitales básicos<br />Participa activamente en el grupo<br /> <br /><strong>13. Recursos</strong></p>\n<p><br />Ordenadores o tablets<br />Conexión a internet<br />Scratch<br />Makey Makey<br />Genially<br />Materiales diversos (cartulina, objetos cotidianos, etc.)<br /> <br /><strong>14. Evaluación del producto final</strong><br />Se valorará:</p>\n<p>Creatividad del producto<br />Claridad del mensaje saludable<br />Uso de imagen, sonido y emoción<br />Integración de herramientas digitales<br />Trabajo en equipo</p>\n<p><strong>15. Principio DUA</strong><strong></strong></p>\n<table border=\"1\" style=\"width: 100.058%;\">\n<tbody>\n<tr>\n<td style=\"width: 24.9501%;\">Principio DUA</td>\n<td style=\"width: 24.9501%;\">Qué se hace en el aula</td>\n<td style=\"width: 24.9501%;\">Recursos concretos</td>\n<td style=\"width: 24.9501%;\">Medidas de atención a la diversidad</td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\">🧠 Representación (qué aprender)</td>\n<td style=\"width: 24.9501%;\">Explicación de qué es un anuncio y sus elementos</td>\n<td style=\"width: 24.9501%;\">Vídeos en YouTube, esquemas en Canva, pictogramas de ARASAAC</td>\n<td style=\"width: 24.9501%;\">Apoyos visuales, аудios, lectura en voz alta, glosario adaptado</td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><br /></td>\n<td style=\"width: 24.9501%;\">Análisis de ejemplos reales</td>\n<td style=\"width: 24.9501%;\">Anuncios impresos y audiovisuales</td>\n<td style=\"width: 24.9501%;\">Selección de ejemplos sencillos y cercanos</td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\">✍️ Acción y expresión (cómo demostrarlo)</td>\n<td style=\"width: 24.9501%;\">Creación del anuncio</td>\n<td style=\"width: 24.9501%;\">Cartulina, Canva, Clipchamp, iMovie, Audacity</td>\n<td style=\"width: 24.9501%;\">Elección de formato, plantillas guiadas, frases modelo</td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><br /></td>\n<td style=\"width: 24.9501%;\">Elaboración de guion o boceto</td>\n<td style=\"width: 24.9501%;\">Ficha estructurada con preguntas guía</td>\n<td style=\"width: 24.9501%;\">Andamiaje paso a paso</td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\">🔥 Implicación (motivación)</td>\n<td style=\"width: 24.9501%;\">Elección del producto o idea del anuncio</td>\n<td style=\"width: 24.9501%;\">Lluvia de ideas, ejemplos cercanos</td>\n<td style=\"width: 24.9501%;\">Libertad de elección según intereses</td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><br /></td>\n<td style=\"width: 24.9501%;\">Trabajo cooperativo</td>\n<td style=\"width: 24.9501%;\">Roles dentro del grupo</td>\n<td style=\"width: 24.9501%;\">Adaptación de roles según capacidades</td>\n</tr>\n<tr>\n<td style=\"width: 24.9501%;\"><br /></td>\n<td style=\"width: 24.9501%;\">Presentación final </td>\n<td style=\"width: 24.9501%;\">Presentaciones orales</td>\n<td style=\"width: 24.9501%;\">Refuerzo positivo, participación flexible</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p>Principios que vamos a tener en cuenta:</p>\n<p>✔️ Flexibilidad en el producto final<br />✔️ Accesibilidad de los contenidos (visual, auditiva, manipulativa)<br />✔️ Participación activa del alumnado<br />✔️ Andamiaje progresivo (de ejemplo → guía → creación autónoma)</p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-movjyagj-4gahjsbj9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-movjyagj-4gahjsbj9</odePageId>
+      <odeBlockId>block-1778088981177-ujxx6dfti</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>explore</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-movjyagj-4gahjsbj9</odePageId>
+          <odeBlockId>block-1778088981177-ujxx6dfti</odeBlockId>
+          <odeIdeviceId>idevice-1778088981175-40ym8bbx6</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">¡Luces, Cámara, Acción!</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">En esta situación de aprendizaje, el alumnado se convertirá en una agencia de publicidad. El objetivo principal es que aprendan a identificar los elementos de un anuncio (eslogan, imagen, logotipo, cuerpo de texto) y a diferenciar entre información y persuasión. El producto final será la creación de un anuncio publicitario (en formato vídeo corto) sobre un producto inventado que promueva un valor positivo o un hábito saludable.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Dina Martín Molina</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#e6e920;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
